@@ -10,6 +10,7 @@ The three datasets below are from Los Angeles Open Data. This website is a repos
 These two datasets are a list of all the properties that went into foreclosure in 2020 and 2021. They provide the registered date of forecloure, property type, location (latitude and longitude) and  street address, the name of the lender and many other data points. This dataset will be useful in identifying where foreclosure rates in the city are the highest. I am thinking this data could also be cross-checked on sites liked ZIMAS or Zillow to discover if they have been been bought or are back on the market. I think it would be interesting to compare the years of the financial collapse to the 2020 and 2021 Covid-19 pandemic. 
 
 https://data.lacity.org/Housing-and-Real-Estate/2020-Registered-Foreclosure-Properties/kde4-k7yx
+
 https://data.lacity.org/Housing-and-Real-Estate/2021-Registered-Foreclosure-Properties/spg4-9ux7
 
 ## Building and Safety Code Enforcement
