@@ -18,5 +18,4 @@ https://data.lacity.org/Housing-and-Real-Estate/2021-Registered-Foreclosure-Prop
 
 This dataset provides a list of all the code violation cases open in LA dating back to 2014. It includes the address, case status, type of code violation and the date the case was open and closed. I am interested in viewing the types of code violation district and possibly by neighborhood.
 
-https://data.lacity.org/Housing-and-Real-Estate/2021-Registered-Foreclosure-Properties/spg4-9ux7
-
+https://data.lacity.org/City-Infrastructure-Service-Requests/Building-and-Safety-Code-Enforcement-Case/2uz8-3tj3
